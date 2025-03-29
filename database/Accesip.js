@@ -34,7 +34,7 @@
   "data": {
     "IP_access_Script": [
       {
-        "ip": "128.199.209.52",
+        "ip": "128.199.209.51",
         "status": "tidakdiverif"
       },
       {
@@ -74,7 +74,7 @@
         "status": "terverifikasi"
       },
       {
-        "ip": "128.199.209.51",
+        "ip": "128.199.209.52",
         "status": "terverifikasi"
       }
     ]
