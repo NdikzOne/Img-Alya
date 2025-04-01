@@ -75,7 +75,7 @@
       },
       {
         "ip": "128.199.209.52",
-        "status": "terverifikasi"
+        "status": "tidakdiverif"
       }
     ]
   }
