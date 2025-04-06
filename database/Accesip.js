@@ -74,7 +74,7 @@
         "status": "terverifikasi"
       },
       {
-        "ip": "128.199.209.52",
+        "ip": "143.198.208.124",
         "status": "terverifikasi"
       }
     ]
