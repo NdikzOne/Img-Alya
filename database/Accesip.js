@@ -74,10 +74,6 @@
       {
         "ip": "206.189.86.81",
         "status": "terverifikasi"
-      },
-      {
-        "ip": "123.456.234.11",
-        "status": "tidakdiverif"
       }
     ]
   }
