@@ -70,6 +70,10 @@
       {
         "ip": "206.189.86.81",
         "status": "terverifikasi"
+      },
+      {
+        "ip": "209.97.168.38",
+        "status": "terverifikasi"
       }
     ]
   }
