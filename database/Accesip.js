@@ -36,10 +36,6 @@
         "status": "tidakdiverif"
       },
       {
-        "ip": "209.97.168.38",
-        "status": "terverifikasi"
-      },
-      {
         "ip": "206.183.131.172",
         "status": "terverifikasi"
       },
