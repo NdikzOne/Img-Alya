@@ -28,9 +28,7 @@
     "upgrade-insecure-requests": "1",
     "cookie": "cf_clearance=Cp9blqCeTgwra_IkW5_i1XzAXrg0zfsu3dhpb4KLu_A-1741178189-1.2.1.1-4G1uhlY_6cs48htE5iOtHcetlDNO3cBwE27ThhqAdfI0x2zNZdD2b7wBP9lDBveBURTPxC645Zt4OCLbJ8A52bM2JiHa1cHoB53qO6_RGzqlsal5E8iRdcH.vkev_Gisho_QIidbvoz42UHIq6TCe893RxkRAGZNAujlJNB1uox6oTEMdWEScuCuhuJORrhSn.uhzURe_gPK7YeO_wXUg5DBizufSrp9ujS2GURFtBotYYjeNDLvzkaeXexeVrgPBgkVF6P0ChxQSoe2LyaEEJeesbwPUfMvMtDTcS78QItr_5TExWRig_4jhbkWKhAN_HOa6vXm_HRvf_NgcisLZ9GIRdIHNPAUQ7T292TdmtxK_VdKZsQEUntCn.36_3V9U_63uoICUHJEEABlHs5vi1a7gFpXRI5tdWRBAdk45pw"
   },
-  "body": {
-
-  },
+  "body": {},
   "data": {
     "IP_access_Script": [
       {
@@ -49,7 +47,7 @@
         "ip": "202.157.185.130",
         "status": "terverifikasi"
       },
-       {
+      {
         "ip": "128.199.81.216",
         "status": "terverifikasi"
       },
@@ -76,6 +74,10 @@
       {
         "ip": "206.189.86.81",
         "status": "terverifikasi"
+      },
+      {
+        "ip": "123.456.234.11",
+        "status": "tidakdiverif"
       }
     ]
   }
