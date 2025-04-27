@@ -74,10 +74,6 @@
       {
         "ip": "209.97.168.38",
         "status": "terverifikasi"
-      },
-      {
-        "ip": "8.88.8.8.8",
-        "status": "terverifikasi"
       }
     ]
   }
