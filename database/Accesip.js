@@ -82,10 +82,6 @@
       {
         "ip": "178.128.114.231",
         "status": "terverifikasi"
-      },
-      {
-        "ip": "777.7777.99",
-        "status": "terverifikasi"
       }
     ]
   }
