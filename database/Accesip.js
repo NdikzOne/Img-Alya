@@ -32,10 +32,6 @@
   "data": {
     "IP_access_Script": [
       {
-        "ip": "128.199.209.51",
-        "status": "tidakdiverif"
-      },
-      {
         "ip": "206.189.86.81",
         "status": "terverifikasi"
       },
