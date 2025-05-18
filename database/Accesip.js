@@ -80,7 +80,7 @@
         "status": "terverifikasi"
       },
       {
-        "ip": "178.128.114.231",
+        "ip": "146.190.92.162",
         "status": "terverifikasi"
       }
     ]
