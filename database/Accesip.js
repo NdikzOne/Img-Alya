@@ -32,7 +32,7 @@
   "data": {
     "IP_access_Script": [
       {
-        "ip": "206.189.86.81",
+        "ip": "146.190.92.162",
         "status": "terverifikasi"
       }
     ]
