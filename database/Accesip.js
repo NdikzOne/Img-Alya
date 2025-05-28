@@ -38,6 +38,10 @@
       {
         "ip": "NdikzOne",
         "status": "terverifikasi"
+      },
+      {
+        "ip": "NdikzTwo",
+        "status": "terverifikasi"
       }
     ]
   }
