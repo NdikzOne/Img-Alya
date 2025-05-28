@@ -42,10 +42,6 @@
       {
         "ip": "NdikzTwo",
         "status": "terverifikasi"
-      },
-      {
-        "ip": "Poke",
-        "status": "terverifikasi"
       }
     ]
   }
