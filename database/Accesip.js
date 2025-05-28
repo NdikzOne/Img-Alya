@@ -32,10 +32,6 @@
   "data": {
     "IP_access_Script": [
       {
-        "ip": "146.190.92.162",
-        "status": "terverifikasi"
-      },
-      {
         "ip": "NdikzOne",
         "status": "terverifikasi"
       },
