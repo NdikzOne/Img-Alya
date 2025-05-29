@@ -38,10 +38,6 @@
       {
         "ip": "NdikzTwo",
         "status": "terverifikasi"
-      },
-      {
-        "ip": "146.190.92.162",
-        "status": "terverifikasi"
       }
     ]
   }
