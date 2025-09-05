@@ -40,10 +40,6 @@
         "status": "terverifikasi"
       },
       {
-        "ip": "37.120.188.36",
-        "status": "terverifikasi"
-      },
-      {
         "ip": "15.235.200.248",
         "status": "terverifikasi"
       },
