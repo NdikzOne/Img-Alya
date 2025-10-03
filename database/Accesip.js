@@ -44,10 +44,6 @@
         "status": "terverifikasi"
       },
       {
-        "ip": "167.99.78.245",
-        "status": "terverifikasi"
-      },
-      {
         "ip": "212.85.27.6",
         "status": "terverifikasi"
       }
