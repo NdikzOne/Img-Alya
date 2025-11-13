@@ -62,6 +62,10 @@
       {
         "ip": "188.166.245.51",
         "status": "terverifikasi"
+      },
+      {
+        "ip": "138.197.198.250",
+        "status": "terverifikasi"
       }
     ]
   }
