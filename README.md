@@ -10,7 +10,7 @@
 </p>
 
 <details>
-<summary>🌐 My Website</summary>
+<summarY>🌐 My Website</summary>
 
 - 🎬 <a href="https://ndifora.vercel.app">Anime Website</a>
 
